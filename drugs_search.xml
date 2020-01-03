@@ -1,0 +1,14 @@
+<drug>
+    <id>3</id>
+    <description>eccbc87e4b</description>
+    <drug_code>ecc</drug_code>
+    <disease_code>a4f</disease_code>
+    <type>1</type>
+</drug>
+<drug>
+    <id>83</id>
+    <description>fe9fc289c3</description>
+    <drug_code>fe9</drug_code>
+    <disease_code>a4f</disease_code>
+    <type>1</type>
+</drug>
